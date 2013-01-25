@@ -1,3 +1,4 @@
 permalink: /:month-:day-:year-:title
 pygments: true
 paginate: 5
+auto: true
